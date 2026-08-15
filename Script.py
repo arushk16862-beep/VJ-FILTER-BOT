@@ -36,7 +36,7 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Wɪᴛʜ Aᴅᴍɪɴ Pᴇʀᴍɪꜱꜱ�
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
 ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
 
-   CLONE_TXT = """●𝙷𝚎𝚢 {}
+   CLONE_TXT = """𝙷𝚎𝚢 {}
 ●𝐺𝑜 𝑡𝑜 𝐵𝑜𝑡𝑓𝑎𝑡ℎ𝑒𝑟
 ●𝒄𝒓𝒆𝒂𝒕𝒆 𝑨 𝒃𝒐𝒕
 ●𝑠𝑒𝑛𝑑 𝑚𝑒 𝑡ℎ𝑒 𝑏𝑜𝑡 𝑡𝑜𝑘𝑒𝑛
